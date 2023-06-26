@@ -1,0 +1,8 @@
+{
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true
+}
